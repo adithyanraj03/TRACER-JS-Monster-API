@@ -30,3 +30,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 This game is inspired by classic arcade games and serves as a basic example of game development using HTML5 Canvas and JavaScript.
+
